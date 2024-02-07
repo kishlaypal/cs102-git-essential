@@ -3,3 +3,5 @@ git remote -v  -  check whether the remote origin is already be setup by running
 git add .  -  stages the files to the repository
 git commit -m "type a message to name the changes"  -  commit helps to store changes in the git repository permanently.
 git status  -  tells the current status of the repository
+
+Today I learned how to use the git commands and got thorough with the interface of github. It is a nice software to store fil;es, codes and applications along with the added advantage of vesion handling.
